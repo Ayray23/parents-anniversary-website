@@ -1,0 +1,7 @@
+public/images/*.jpg
+public/images/*.jpeg
+public/images/*.png
+public/videos/*
+!public/videos/.gitkeep
+!public/images/optimized/
+!public/images/optimized/**
